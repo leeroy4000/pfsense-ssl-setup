@@ -168,6 +168,3 @@ ACME automatically renews certificates every 60 days. You can manually renew any
 - **Let's Encrypt Docs**: https://letsencrypt.org/docs/
 
 ---
-
-**Setup Date**: 2026-01-10  
-**Domain Used**: pfsense.example.com (update with your domain)
